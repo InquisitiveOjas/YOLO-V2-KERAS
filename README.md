@@ -4,7 +4,7 @@ This is a learning attempt on implementing YOLO-V2 algorithm for real time multi
 Localization — Refers to not only identifying is a given object is present inside an image, but also distinguishing the object’s location using a bounding box.
 Detection — Simply refers to multiple localizations in a single image.
 
-Reference :- https://pjreddie.com/media/files/papers/YOLO9000.pdf
+Reference :- https://pjreddie.com/media/files/papers/YOLO9000.pdf and https://pjreddie.com/darknet/yolo/
 
 Key points of the implementation :-
 
